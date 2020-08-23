@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+        <info>
+        <name>Anthrolupe</name>
+        <description></description>
+        <author url="https://pastebin.com/RaSRTKWi">Hunter The Protogen</author>
+        <update version="0.0.1">
+            <file name=
+        </update>
+        </info>
+    <element name="D&amp;D Wiki Ports By Hunter: Anthrolupe" type="Source" source="Core" id="ID_HTP_SOURCE_ANTHROLUPE"></element>
+    <element name="Anthrolupe" type="Race" source="D&amp;D Wiki Category:Anthropomorphic" id="ID_HTP_DNDWiki_ANTHROLUPE">
+        <description>
+            <h1>Summary</h1>
+            <p>Anthrolupes are a race of anthropomorphic wolves who generally travel in packs.</p>
+            <h1>Physical Description</h1>
+            <p>Anthrolupes are similar to humans in shape and size but tend to have leaner builds and appear as anthropomorphic wolves. They are covered in thick fur that varies in color depending on the region they come from (e.g. those who are from forest regions may have black or brown fur while those from colder climates may have white fur). Anthrolupes also have sharp teeth and claws as well as pointed ears on top of their heads and a tail extending from the base of their tail bones. Due to their appearance, less sophisticated than other races like the wolffolk, they are often thought to be werewolves. Due to their unsettling appearance, they are often discriminated heavily against, often being hunted down as monsters</p>
+            <h1>History</h1>
+            <p>Anthrolupes have been around for centuries. Not much else is known about the origins of this race. Some think that their appearance was a curse while others believe they are a result of crossbreeding between different races. </p>
+            <h1>Society</h1>
+            <p>Anthrolupes have very honour-based societies. They tend to live in close-knit clans, termed "packs", and are rarely seen living in cities and towns. They care deeply for those from the same pack, often even willing to give their own lives in defence of friend or kin. However, an Anthrolupe that has lost its tail is seen as a disgrace. An anthrolupe's tail is seen as a badge of honour, and to lose it is devastating. Sometimes, criminals are punished by the removal of their tails. There are certain situations in which the loss of one's tail is seen as acceptable, such as in the defence of his pack. In Anthrolupe society, it is primarily the males that travel abroad, though females may travel for other reasons. </p>
+            <h1>Anthrolupe Names</h1>
+            <p>Anthrolupes generally have names composed of an adjective/noun and a noun. </p>
+            <h1>Anthrolupe Traits</h1>
+            <p>Wild Anthrolupes are the solitary hunters of the anthropomorphic wolf race the anthrolupes. They live in the wilderness, generally far from cities.</p>
+            <h5>Ability Score Increase</h5> 
+            <p>Your Dexterity score increases by 2 and your Constitution score increases by 1.</p>
+            <h5>Age</h5> 
+            <p>Anthrolupes generally reach adulthood at the age of 14. They live to around the age of 80, maturing heavily and greying in the last twenty years. </p>
+            <h5>Alignment</h5> 
+            <p>Anthrolupes aren't bound to any specific alignment, but they do tend to lean more towards chaotic alignments due to their wild natures. </p>
+            <h5>Size</h5> 
+            <p>Anthrolupes are generally about the size of humans and average about 5’ to 6’ in height and around 130-200 lbs in weight. Your size is Medium. </p>
+            <h5>Speed</h5> 
+            <p>Your base walking speed is 35 feet.</p>
+            <h5>Darkvision</h5> 
+            <p>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray. </p>
+            <h5>Claws</h5> 
+            <p>You have proficiency in unarmed strikes using your claws. Your claws have the finesse property and deal slashing damage equal to 1d6 + your Dexterity modifier, instead of the bludgeoning damage normal for an unarmed strike.</p>
+            <h5>Speak with Small Beasts</h5> 
+            <p>Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts.</p>
+            <h5>Born Hunter</h5> 
+            <p>You are proficient in the Perception and Survival skills.</p>
+            <h5>Languages</h5> 
+            <p>You can speak, read, and write Common, and Sylvan.</p>
+            <h1>Height and Weight</h1>
+            <table cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <th style="text-align: left;">Base<br></br>Height</th>
+                            <th style="text-align: left;">Height<br></br>Modifier*</th>
+                                <th style="text-align: left;">Base<br></br>Weight</th>
+                                    <th style="text-align: left;">Weight<br></br>Modifier**
+                                        </th>
+                                    </tr>
+                                    <tr class="odd">
+                                        <td style="text-align: left;">5′ 0″</td>
+                                        <td>+1d12</td>
+                                        <td>130 lb.</td>
+                                        <td>× (1d6) lb.
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="foot" colspan="4">
+                                            <p>
+                                                <small>*Height = base height + height modifier<br></br>**Weight = base weight + (height modifier × weight modifier)</small>
+                                            </p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+        </description>
+        <sheet>
+            <description><p>Anthrolupes are a race of anthropomorphic wolves who generally travel in packs.</p></description>
+        </sheet>
+        <grant type="Language" id="ID_LANGUAGE_SYLVAN" />
+        <grant type="Language" id="ID_LANGUAGE_COMMON" />
+        <stat name="innate speed" value="35" bonus="base" />
+        <stat name="dexterity" value="2" />
+        <stat name="constitution" value="1" />
+        <stat name="perception:proficiency" value="1" bonus="proficiency" />
+        <stat name="survival:proficiency" value="1" bonus="proficiency" />
+        
+
+
+    </element>
+</elements>
