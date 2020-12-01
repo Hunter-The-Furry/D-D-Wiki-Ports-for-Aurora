@@ -6,3 +6,5 @@ N/A
 
 Work in progress categories:
 Anthropomorphic (https://www.dandwiki.com/wiki/Category:Anthropomorphic)
+
+Message to future me: Stop starting so many damn projects and finish a few for once
